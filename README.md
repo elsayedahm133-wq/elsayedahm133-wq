@@ -1,16 +1,43 @@
-## Hi there 👋
+Hi, I’m Elsayed Ahmed 👋
 
-<!--
-**elsayedahm133-wq/elsayedahm133-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring SOC Analyst | Network Security | Cybersecurity
 
-Here are some ideas to get you started:
+Telecommunications Engineering graduate with a CCNA background, currently developing practical skills in Security Operations Center (SOC) analysis, security monitoring, and incident investigation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛡️ Technical Skills
+
+* Networking: TCP/IP, DNS, Routing & Switching
+* Operating Systems: Windows & Linux
+* Security Monitoring: Windows Event Logs, Sysmon
+* Network Analysis: Wireshark, Nmap
+* SIEM: Splunk
+* Security Concepts: Alert Triage, Incident Investigation, IOC Analysis
+
+🔬 Hands-on Labs
+
+Currently building practical cybersecurity projects covering:
+
+* Windows Event Log Analysis
+* Sysmon Process Investigation
+* Network Traffic Analysis
+* SIEM Log Investigation
+* Security Incident Response
+
+🎓 Certifications
+
+* Cisco CCNA
+* Huawei HCIA – Data Communication
+
+📚 Currently Learning
+
+* SOC Analyst Level 1
+* SIEM & Security Monitoring
+* Threat Detection & Incident Response
+* MITRE ATT&CK Framework
+
+🤝 Connect With Me
+
+* LinkedIn
+* GitHub
+
+Learning by doing. Building practical cybersecurity skills every day.
