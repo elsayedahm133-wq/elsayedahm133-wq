@@ -1,43 +1,28 @@
 Hi, I’m Elsayed Ahmed 👋
 
-Aspiring SOC Analyst | Network Security | Cybersecurity
+I’m a Telecommunications Engineering graduate interested in cybersecurity, especially SOC operations and network security.
 
-Telecommunications Engineering graduate with a CCNA background, currently developing practical skills in Security Operations Center (SOC) analysis, security monitoring, and incident investigation.
+Skills
 
-🛡️ Technical Skills
+* Networking: CCNA, TCP/IP, DNS
+* Windows & Linux
+* Wireshark, Nmap, Sysmon
+* Windows Event Logs
+* Splunk (Learning)
 
-* Networking: TCP/IP, DNS, Routing & Switching
-* Operating Systems: Windows & Linux
-* Security Monitoring: Windows Event Logs, Sysmon
-* Network Analysis: Wireshark, Nmap
-* SIEM: Splunk
-* Security Concepts: Alert Triage, Incident Investigation, IOC Analysis
-
-🔬 Hands-on Labs
-
-Currently building practical cybersecurity projects covering:
-
-* Windows Event Log Analysis
-* Sysmon Process Investigation
-* Network Traffic Analysis
-* SIEM Log Investigation
-* Security Incident Response
-
-🎓 Certifications
+Certifications
 
 * Cisco CCNA
 * Huawei HCIA – Data Communication
 
-📚 Currently Learning
+What I’m Working On
 
-* SOC Analyst Level 1
-* SIEM & Security Monitoring
-* Threat Detection & Incident Response
-* MITRE ATT&CK Framework
+* Windows Log Analysis
+* Network Traffic Analysis
+* SOC Monitoring & Alert Investigation
+* Incident Response
 
-🤝 Connect With Me
+Find Me
 
 * LinkedIn
 * GitHub
-
-Learning by doing. Building practical cybersecurity skills every day.
